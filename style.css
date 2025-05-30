@@ -1,0 +1,27 @@
+#head {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(27, 142, 243);
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+#h1 {
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+.btn_start button {
+    display: block;
+    border: 1px solid black;
+    padding: 100px 120px;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.btn_start {
+    border: 1px solid black;
+}
